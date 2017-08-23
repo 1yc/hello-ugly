@@ -1,2 +1,2 @@
 # hello-ugly
-one repository
+not a single repository but something of great smell
